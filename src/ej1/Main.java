@@ -6,6 +6,8 @@ import java.util.Collections;
 
 public class Main {
 
+    
+    
     public static void main(String[] args) {
         ArrayList<Integer> arr = new ArrayList();
         Scanner sc = new Scanner(System.in);
